@@ -15,7 +15,7 @@
 
 5 - Clicar em cima do programa .exe para executá-lo. Lembrando que a quantidade de cliques para abrir o arquivo .exe é de acordo com seus sistema operacional e configurações.
 
-5- Existe a opção de utilizar o PyInstaller caso não se deseja usar o cx_Freeze. Paa isso visitar o site https://www.pyinstaller.org/ e seguir as instruções fornecidas lá.
+5- Existe a opção de utilizar o PyInstaller caso não se deseja usar o cx_Freeze. Para isso visitar o site https://www.pyinstaller.org/ e seguir as instruções fornecidas lá.
 
 6- Aproveite para localizar falhas no programa e indicar melhorias.
 
